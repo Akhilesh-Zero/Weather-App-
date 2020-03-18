@@ -50,7 +50,7 @@ window.addEventListener('load', ()=> {
 
         
     }//else{
-    //      h1.textContent = "Weather app needs your location to show you the temperature"
+    //       h1.textContent = "Weather app needs your location to show you the temperature"
     // }
     function setIcons(icon, iconID){
         const skycons = new Skycons({ color: "white " });
